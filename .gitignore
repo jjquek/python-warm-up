@@ -1,0 +1,6 @@
+# environments
+project-env
+
+# caches
+__pycache__
+.pytest_cachce
